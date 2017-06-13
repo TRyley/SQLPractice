@@ -1,0 +1,7 @@
+c:\users\uktryl\documents\visual studio 2015\Projects\SQLBootcampApp\SQLBootcampApp\bin\Debug\SQLBootcampApp.exe.config
+c:\users\uktryl\documents\visual studio 2015\Projects\SQLBootcampApp\SQLBootcampApp\bin\Debug\SQLBootcampApp.exe
+c:\users\uktryl\documents\visual studio 2015\Projects\SQLBootcampApp\SQLBootcampApp\bin\Debug\SQLBootcampApp.pdb
+c:\users\uktryl\documents\visual studio 2015\Projects\SQLBootcampApp\SQLBootcampApp\obj\Debug\SQLBootcampApp.csprojResolveAssemblyReference.cache
+c:\users\uktryl\documents\visual studio 2015\Projects\SQLBootcampApp\SQLBootcampApp\obj\Debug\SQLBootcampApp.exe
+c:\users\uktryl\documents\visual studio 2015\Projects\SQLBootcampApp\SQLBootcampApp\obj\Debug\SQLBootcampApp.pdb
+c:\users\uktryl\documents\visual studio 2015\Projects\SQLBootcampApp\SQLBootcampApp\bin\Debug\MySql.Data.dll
